@@ -58,8 +58,8 @@ Skills Demonstrated:
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add your link here)
-- Email: (professional email here)
+- LinkedIn: https://www.linkedin.com/in/janelle-wright-087653358/
+- Email: janelle8130@gmail.com
 
 ---
 
