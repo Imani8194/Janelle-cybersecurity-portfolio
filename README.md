@@ -1,45 +1,66 @@
-# 🛡️ Cybersecurity Portfolio
-Welcome to my Cybersecurity Professional Portfolio. This portfolio documents my hands-on learning and growth throughout the Google Cybersecurity Professional Certificate and Merit America program.
+# 👋 Hi, I'm Janelle Wright
+
+## 🔐 Aspiring Cybersecurity Analyst | SOC-Focused | Blue Team Enthusiast
+
+I am building hands-on cybersecurity projects focused on incident response, network traffic analysis, and system fundamentals. My goal is to develop practical defensive security skills and contribute to protecting digital environments.
 
 ---
 
-## 🔐 About Me
-I am an aspiring cybersecurity professional with developing skills in threat detection, incident response, Python scripting, SIEM tools, and vulnerability assessment.
+## 🛡️ Cybersecurity Projects
+
+### 🔍 Windows Incident Response Lab
+Repository: windows-incident-response-lab  
+Skills Demonstrated:
+- Windows Event Log Analysis
+- Identifying Brute-Force Login Attempts
+- PowerShell Log Investigation
+- IOC Documentation
+
+### 🌐 Wireshark Network Analysis Lab
+Repository: wireshark-network-analysis-lab  
+Skills Demonstrated:
+- Packet Capture & Filtering
+- DNS / HTTP / ICMP Analysis
+- Identifying Suspicious Traffic Patterns
+- Network Protocol Fundamentals
 
 ---
 
-## 🧪 Projects & Artifacts
+## 🧰 Technical Skills
 
-### 1️⃣ TryHackMe Journal  
-**Status:** Coming Soon  
-*A detailed record of cybersecurity learning experiences and walkthroughs from the TryHackMe platform.*
+**Operating Systems**
+- Windows 10 / 11
+- Linux (basic command line)
 
----
+**Tools**
+- Wireshark
+- Event Viewer
+- PowerShell
+- VirtualBox
+- Linux
+- SQL
+- Cryptography 
 
-### 2️⃣ Incident Handler’s Journal  
-**Status:** Coming Soon  
-*Incident analysis, response notes, and security observations from simulated incidents.*
-
----
-
-### 3️⃣ Vulnerable System Analysis  
-**Status:** Coming Soon  
-*An investigation into system vulnerabilities and proposed remediation steps.*
-
----
-
-### 4️⃣ SQL Query Project  
-**Status:** Coming Soon  
-*A demonstration of SQL skills used for cybersecurity investigation and data queries.*
+**Concepts**
+- Incident Response Workflow
+- Log Analysis
+- TCP/IP Fundamentals
+- Authentication & Authorization
 
 ---
 
-## 📫 Contact  
-**Email:** your-email@example.com  
-**LinkedIn:** (optional)  
-**GitHub:** https://github.com/yourusername
+## 📚 Currently Learning
+- Linux security fundamentals
+- SIEM tools (Splunk / ELK)
+- Threat detection techniques
+- Python
 
 ---
 
-### 🌐 Portfolio Website  
-This page is published using **GitHub Pages**.  
+## 📫 Connect With Me
+- LinkedIn: (add your link here)
+- Email: (professional email here)
+
+---
+
+> “Security is not a product, but a process.” – Bruce Schneier
